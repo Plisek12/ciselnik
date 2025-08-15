@@ -3,4 +3,4 @@ Tišťák číselník, který umí zobrazovat nastavene elementy. Vyrobeno pro f
 
 Toto je test
 
-<img width="800" alt="lorraine" src="https://github.com/user-attachments/assets/7a2f0d94-3a7d-43fc-8613-9afe07a6a172" />
+<img width="100" alt="lorraine" src="https://github.com/user-attachments/assets/7a2f0d94-3a7d-43fc-8613-9afe07a6a172" />
